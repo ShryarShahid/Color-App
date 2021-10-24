@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
     public void Red(View view) {
         button= findViewById(R.id.buttonRed);
         button.setBackgroundColor(Color.RED);
+
     }
     public void Blue(View view) {
         button= findViewById(R.id.buttonBlue);
