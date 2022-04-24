@@ -47,3 +47,5 @@
         android:layout_marginTop="32dp"
         android:text="Blue"
         android:onClick="Blue"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
