@@ -36,3 +36,5 @@
         android:textColor="@color/white"
         android:layout_marginTop="57dp"
         android:text="Choose Button for different colors"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
