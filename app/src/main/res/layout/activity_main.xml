@@ -38,3 +38,5 @@
         android:text="Choose Button for different colors"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/textView"
+        tools:ignore="HardcodedText" />
